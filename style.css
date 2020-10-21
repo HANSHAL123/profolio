@@ -1,0 +1,131 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-image: url('image/Tech.jpg');
+    background-size: 100%;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    margin-right: 60%;
+}
+
+.foot{
+    background-color: rgba(46, 33, 33, 0.803);
+}
+
+.font-div{
+    width: 50%;
+    height: 50%;
+}
+
+
+
+
+#my_resume{
+    width: 100%;
+}
+
+.pro{
+    width: 100%;
+}
+
+
+.pro1{
+    width: 100%;
+}
+
+.pro2{
+    width: 75%;
+}
+
+.pro3{
+    width: 85%;
+}
+
+.pro4{
+    width: 75%;
+}
+
+.pro5{
+    width: 100%;
+    
+}
+
+.h1{
+    background-color: rgba(221, 66, 138, 0.803);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.bg{
+    background-color: rgba(115, 213, 252, 0.603);
+    padding:3;
+    color:white;
+    font-size: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg:hover{
+    color: rgba(115, 213, 252);
+    background-color: rgba(0,0,0,0.803);
+}
+
+.home{
+    background-color: rgba(44, 250, 54, 0.803);
+}
+
+.home:hover{
+    color: rgba(44, 250, 54);
+    background-color: rgba(0,0,0, 0.803);
+}
+
+.btn{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color: #09f09f;
+    color: #f90f90;
+    width: 50%;
+    height: 5rem;
+}
+
+.btn:hover{
+    background-color: #f90f90;
+    color: #09f09f;
+    transition: all 0.9s;
+}
+
+.resume{
+    background-color: rgba(238, 81, 81, 0.803);
+}
+
+.resume:hover{
+    color: rgba(238, 81, 81);
+    background-color: rgba(0,0,0, 0.803);
+}
+
+h1{
+    font-size: 5rem;
+}
+
+.h1:hover{
+    color: rgb(221, 66, 138);
+    background-color: rgba(0, 0, 0, 0.803);
+    width: 100%;
+    height: 100%;
+    font-size: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1:hover > img{
+    margin: auto;
+}
